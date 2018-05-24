@@ -1,0 +1,7 @@
+D:\Archive 15.09.2013\Уроки\C#\ООАИП\Задача 4\Задача 4\obj\Debug\Задача 4.csprojResolveAssemblyReference.cache
+D:\Archive 15.09.2013\Уроки\C#\ООАИП\Задача 4\Задача 4\obj\Debug\Задача 4.csproj.CoreCompileInputs.cache
+D:\Archive 15.09.2013\Уроки\C#\ООАИП\Задача 4\Задача 4\bin\Debug\Задача 4.exe.config
+D:\Archive 15.09.2013\Уроки\C#\ООАИП\Задача 4\Задача 4\bin\Debug\Задача 4.exe
+D:\Archive 15.09.2013\Уроки\C#\ООАИП\Задача 4\Задача 4\bin\Debug\Задача 4.pdb
+D:\Archive 15.09.2013\Уроки\C#\ООАИП\Задача 4\Задача 4\obj\Debug\Задача 4.exe
+D:\Archive 15.09.2013\Уроки\C#\ООАИП\Задача 4\Задача 4\obj\Debug\Задача 4.pdb
