@@ -24,7 +24,7 @@ namespace Задача_2
             if ( Math.Abs(x) < 10 )
              y = Math.Tan(x / i + a) - Math.Log(b * i + 7);
             else
-               y = c * Math.Pow(Math.Pow(x, 2) + d * Math.Pow(i, 1.2), i);
+               y = c * Math.Pow(Math.Pow(x, 2) + d * Math.Pow(i, 1.2), 1 / i);
             Console.WriteLine("у =" + y);
                     
 
