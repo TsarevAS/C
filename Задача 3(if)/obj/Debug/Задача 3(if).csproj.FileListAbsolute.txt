@@ -1,0 +1,7 @@
+D:\Archive 15.09.2013\Уроки\C#\ООАИП\Задача 3(if)\Задача 3(if)\obj\Debug\Задача 3(if).csprojResolveAssemblyReference.cache
+D:\Archive 15.09.2013\Уроки\C#\ООАИП\Задача 3(if)\Задача 3(if)\obj\Debug\Задача 3(if).csproj.CoreCompileInputs.cache
+D:\Archive 15.09.2013\Уроки\C#\ООАИП\Задача 3(if)\Задача 3(if)\bin\Debug\Задача 3(if).exe.config
+D:\Archive 15.09.2013\Уроки\C#\ООАИП\Задача 3(if)\Задача 3(if)\bin\Debug\Задача 3(if).exe
+D:\Archive 15.09.2013\Уроки\C#\ООАИП\Задача 3(if)\Задача 3(if)\bin\Debug\Задача 3(if).pdb
+D:\Archive 15.09.2013\Уроки\C#\ООАИП\Задача 3(if)\Задача 3(if)\obj\Debug\Задача 3(if).exe
+D:\Archive 15.09.2013\Уроки\C#\ООАИП\Задача 3(if)\Задача 3(if)\obj\Debug\Задача 3(if).pdb
