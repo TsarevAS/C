@@ -22,9 +22,13 @@ namespace Задача_2
             Console.WriteLine("Введите d");
             double d = double.Parse(Console.ReadLine());
             if ( Math.Abs(x) < 10 )
+            {
              y = Math.Tan(x / i + a) - Math.Log(b * i + 7);
+            }
             else
-               y = c * Math.Pow(Math.Pow(x, 2) + d * Math.Pow(i, 1.2), 1 / i);
+            {
+                y = c * Math.Pow(Math.Pow(x, 2) + d * Math.Pow(i, 1.2), 1 / i);
+            }
             Console.WriteLine("у =" + y);
                     
 
