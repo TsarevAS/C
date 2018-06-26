@@ -1,0 +1,7 @@
+C:\Users\astsaryov\source\repos\Лабораторная работа 5\Лабораторная работа 5\obj\Debug\Лабораторная работа 5.csprojResolveAssemblyReference.cache
+C:\Users\astsaryov\source\repos\Лабораторная работа 5\Лабораторная работа 5\obj\Debug\Лабораторная работа 5.csproj.CoreCompileInputs.cache
+C:\Users\astsaryov\source\repos\Лабораторная работа 5\Лабораторная работа 5\bin\Debug\Лабораторная работа 5.exe.config
+C:\Users\astsaryov\source\repos\Лабораторная работа 5\Лабораторная работа 5\bin\Debug\Лабораторная работа 5.exe
+C:\Users\astsaryov\source\repos\Лабораторная работа 5\Лабораторная работа 5\bin\Debug\Лабораторная работа 5.pdb
+C:\Users\astsaryov\source\repos\Лабораторная работа 5\Лабораторная работа 5\obj\Debug\Лабораторная работа 5.exe
+C:\Users\astsaryov\source\repos\Лабораторная работа 5\Лабораторная работа 5\obj\Debug\Лабораторная работа 5.pdb
